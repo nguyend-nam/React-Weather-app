@@ -3,7 +3,7 @@
 ### **[→ View site](https://weathernowreact.netlify.app)**
 
 ## Preview
-<img src="public/img/screenshot.png" width=450px> <img src="public/img/screenshot1.png" width=450px> <img src="public/img/screenshot2.png" width=450px>
+<img src="public/img/screenshot.png" width=410px> <img src="public/img/screenshot1.png" width=410px> <img src="public/img/screenshot2.png" width=410px>
 
 ## Features
   - Input country or city name to get weather info.
