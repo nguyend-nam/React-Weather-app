@@ -93,7 +93,7 @@ button:focus{
   text-shadow: 3px 3px 2px #00000050;
 }
 .notfound{
-  padding: 60px 30px 70px 30px;
+  padding: 75px 30px 85px 30px;
   background-color: #6B7D8Bfa;
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'%3E%3Cpolygon fill='%23c7d1d5' points='957 450 539 900 1396 900'/%3E%3Cpolygon fill='%2398a2aa' points='957 450 872.9 900 1396 900'/%3E%3Cpolygon fill='%23b7c4ca' points='-60 900 398 662 816 900'/%3E%3Cpolygon fill='%237d8f9b' points='337 900 398 662 816 900'/%3E%3Cpolygon fill='%23a1afb7' points='1203 546 1552 900 876 900'/%3E%3Cpolygon fill='%23909ea6' points='1203 546 1552 900 1162 900'/%3E%3Cpolygon fill='%239eabb2' points='641 695 886 900 367 900'/%3E%3Cpolygon fill='%23a4b3bb' points='587 900 641 695 886 900'/%3E%3Cpolygon fill='%237d8f9b' points='1710 900 1401 632 1096 900'/%3E%3Cpolygon fill='%23bbc8ce' points='1710 900 1401 632 1365 900'/%3E%3Cpolygon fill='%236b7985' points='1210 900 971 687 725 900'/%3E%3Cpolygon fill='%23bec7ca' points='943 900 1210 900 971 687'/%3E%3C/svg%3E");
   background-size: cover;
@@ -201,6 +201,7 @@ table th{
   padding: 15px;
   font-weight: 700;
   color: #ced9dd;
+  font-size: 18px;
 }
 
 @media (max-width: 767px){
@@ -227,11 +228,11 @@ table th{
   }
   .banner{
     width: 100%;
-    border: 1px solid #ced9dd;
+    border: 2px solid #ced9dd;
     padding: 10px;
   }
   .notfound{
-    padding: 45px 30px 50px 30px;
+    padding: 50px 30px 65px 30px;
   }
   .features{
     flex-wrap: wrap;
@@ -264,5 +265,8 @@ table th{
     padding: 0 0 20px 0;
     background: #ced9dd;
     text-align: center;
+  }
+  .copyright{
+    font-size: 17px;
   }
 }
