@@ -125,7 +125,7 @@ button:focus{
   text-align: left;
 }
 .features i{
-  font-size: 40px;
+  font-size: 41px;
   color: #6b7d8b;
   text-shadow: 3px 3px 0px #ced9dd;
   margin: auto;
@@ -200,7 +200,7 @@ table th{
   text-align: center;
   padding: 15px;
   font-weight: 700;
-  color: #ced9dd;
+  color: #dee9ed;
   font-size: 18px;
 }
 
@@ -265,6 +265,7 @@ table th{
     padding: 0 0 20px 0;
     background: #ced9dd;
     text-align: center;
+    background-image: radial-gradient(65% 95% at bottom, #6b7d8b 82%, #ced9dd 82.5%);
   }
   .copyright{
     font-size: 17px;
