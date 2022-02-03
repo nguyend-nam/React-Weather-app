@@ -31,7 +31,7 @@ export default class ForecastComponent extends Component {
         <div className="landing">
           <div className="banner">
             <img src="img/icon.png" height="150px" width="150px" alt="Weather" />
-            <h2>Weather Now web-app</h2>
+            <h2>WeatherNow React app</h2>
             <div className="link"><a target="_blank" href="https://github.com/NguyenD-Nam/React-Weather-app">&rarr; Source code</a></div>
           </div>
           <div className="features">
